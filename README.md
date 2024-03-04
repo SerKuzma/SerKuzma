@@ -2,9 +2,8 @@
 
 <!--
 **SerKuzma/SerKuzma** is my ✨ _special_ ✨ repository because its `README.md`. 
-<picture>
-![SoExcited~GIF](https://github.com/SerKuzma/SerKuzma/assets/153662614/ed6b321d-3718-44d3-84c3-759f97ee89e6)
-</picture>
+
+![SoExcited~GIF](https://github.com/SerKuzma/SerKuzma/assets/153662614/b2d80063-b3d9-4230-a7e1-442544008057)
 
 
 - 🔭 [I'm currently improving my programming skills.]
