@@ -2,7 +2,10 @@
 
 <!--
 **SerKuzma/SerKuzma** is my ✨ _special_ ✨ repository because its `README.md`. 
+<picture>
 ![SoExcited~GIF](https://github.com/SerKuzma/SerKuzma/assets/153662614/ed6b321d-3718-44d3-84c3-759f97ee89e6)
+</picture>
+
 
 - 🔭 [I'm currently improving my programming skills.]
 - 🌱 I’m currently learning Phyton, HTML, CSS, JavaScript 
