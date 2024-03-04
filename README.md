@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! Wellcome to my GitHub 👋
 
 <!--
 **SerKuzma/SerKuzma** is my ✨ _special_ ✨ repository because its `README.md`. 
